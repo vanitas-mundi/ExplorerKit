@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ExplorerKit/ExplorerKit.csproj" />
+    <Project Path="src/ExplorerKitSample/ExplorerKitSample.csproj" />
+  </Folder>
+</Solution>

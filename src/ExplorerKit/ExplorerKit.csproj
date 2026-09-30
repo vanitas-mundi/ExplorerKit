@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows10.0.22621.0</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>SSP.ExplorerKit</AssemblyName>
+    <RootNamespace>SSP.ExplorerKit</RootNamespace>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+
+    <PackageId>SSP.ExplorerKit</PackageId>
+    <Version>2.0.0</Version>
+    <Description>Windows 11 File Explorer toolkit: open folders as a new tab in an existing Explorer window (optionally chosen via dialog), list and close Explorer windows.</Description>
+  </PropertyGroup>
+
+</Project>
